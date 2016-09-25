@@ -11,7 +11,7 @@ $ npm install --global iapps
 ``` sh
 > iapps
 ```
-App list will be copied to clipboard. You can share it with anyone.
+✔ App list will be copied to clipboard. You can share it with anyone 💪.
 
 ## License
 
