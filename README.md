@@ -1,5 +1,5 @@
 ## iapps
-A cli tool to get and share list of all Installed Applications on OSX/Win/Linux.
+A cli tool to get and share list of all your Installed Applications on OSX/Win/Linux.
 
 ## Installation
 
