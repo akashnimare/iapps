@@ -3,11 +3,15 @@
   "version": "0.0.1",
   "description": "",
   "license": "MIT",
-  "repository": "akashnimare/iapps",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akashnimare/iapps.git"
+  },
+  "bugs": "https://github.com/akashnimare/iapps/issues",
   "author": {
     "name": "Akash Nimare",
     "email": "svnitakash@gmail.com",
-    "url": "akashnimare.in"
+    "url": "http://akashnimare.in"
   },
   "bin": "cli.js",
   "files": [
@@ -16,7 +20,9 @@
   ],
   "keywords": [
     "cli-app",
-    "cli"
+    "cli",
+    "installed-apps",
+    "list app"
   ],
   "dependencies": {
     "shelljs":"0.5.3",

@@ -5,7 +5,9 @@ const shell = require('shelljs'),
 module.exports = function () {
 	if (process.platform === 'darwin') {
 		const output = shell.exec("ls /Applications", {silent:true}).output
-		ncp.copy(output.replace(/.app/g,''))
+		ncp.copy(output.replace(/.app/g,'') ,function () {
+			console.log("Your installed app list is copied to clipboard.")
+		})
 	} else {
 		throw new Error('Unknown OS!')
 	}
