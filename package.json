@@ -1,0 +1,25 @@
+{
+  "name": "iapps",
+  "version": "0.0.1",
+  "description": "",
+  "license": "MIT",
+  "repository": "akashnimare/iapps",
+  "author": {
+    "name": "Akash Nimare",
+    "email": "svnitakash@gmail.com",
+    "url": "akashnimare.in"
+  },
+  "bin": "cli.js",
+  "files": [
+    "index.js",
+    "cli.js"
+  ],
+  "keywords": [
+    "cli-app",
+    "cli"
+  ],
+  "dependencies": {
+    "shelljs":"0.5.3",
+    "copy-paste": "^1.0.1"
+    }
+}
