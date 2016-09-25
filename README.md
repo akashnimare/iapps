@@ -15,5 +15,5 @@ App list will be copied to clipboard. You can share it with anyone.
 
 ## License
 
-MIT © Akash Nimare
+MIT © [Akash Nimare](http://akashnimare.in)
 
