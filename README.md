@@ -8,8 +8,10 @@ $ npm install --global iapps
 ```
 
 ## Usage
-
+``` sh
 > iapps
+```
+App list will be copied to clipboard. You can share it with anyone.
 
 ## License
 
